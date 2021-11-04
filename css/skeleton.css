@@ -2,6 +2,7 @@
   border-radius: 10px;
   border: 0px solid black;
   box-shadow: 0 0 7px #666;
+  max-width: 100%;
 }
 
 .name {
